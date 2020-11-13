@@ -1,2 +1,2 @@
 # smallMicroServiceApp
-small microservice app example
+ Simple example of microservices architecture pattern.
